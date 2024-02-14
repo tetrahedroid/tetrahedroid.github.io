@@ -53,16 +53,16 @@ defaultContentLanguage = "ja"
             # header = "More Links to Stuff"
         [[params.footer.links.links]]
             title = "ホーム"
-            url = "/"
+            url = ""
         [[params.footer.links.links]]
             title = "最新情報"
-            url = "/posts"
+            url = "posts"
         [[params.footer.links.links]]
             title = "研究"
-            url = "/research"
+            url = "research"
         [[params.footer.links.links]]
             title = "メンバー"
-            url = "/members"
+            url = "members"
 
 
         [[params.footer.links]]
