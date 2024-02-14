@@ -60,8 +60,9 @@ jobs:
             --gc \
             --minify \
             --source=exampleSite -d ../public \
-            --baseURL "${{ steps.pages.outputs.base_url }}/hugo-arcana/"          
-        # --source=exampleSite --themesDir=../..
+            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+        # the contents are written in a temporary folder "public"
+        # and is visible as https://tetrahedroid.github.io/hugo-arcana/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
