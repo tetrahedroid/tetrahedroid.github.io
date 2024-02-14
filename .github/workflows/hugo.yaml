@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --source=exampleSite \
+            --source=exampleSite -d ../docs \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
         # --source=exampleSite --themesDir=../..
       - name: Upload artifact

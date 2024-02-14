@@ -47,14 +47,11 @@ I borrowed a good amount of structure and useful bits from
 
 `git clone https://github.com/tetrahedroid/hugo-arcana.git`
 
-### And test run 
+### And test-run locally
 
 ```shell
 cd hugo-arcana
 make
 ```
 
-### Deploy to GitHub pages
-
-https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
