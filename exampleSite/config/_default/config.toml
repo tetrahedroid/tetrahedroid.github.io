@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "http://theochem.chem.okayama-u.ac.jp/"
 languageCode = "ja-JP"
 title = "理論化学研究室"
 theme = "hugo-arcana"
@@ -7,7 +7,7 @@ copyright = "© Theoretical Chemistry Lab. All rights reserved"
 defaultContentLanguage = "ja"
 [languages]
     [languages.ja]
-        languageName = "日本語"
+        languageName = "日本"
         weight = 1
     [languages.en]
         languageName = "English"
@@ -24,22 +24,22 @@ defaultContentLanguage = "ja"
     description = "理論化学研究室"
     show_post_dates = true
 
-    [[params.social]]
-        title = "Twitter"
-        icon = "fa-twitter"
-        url = "#"
-    [[params.social]]
-        title = "Facebook"
-        icon = "fa-facebook-f"
-        url = "#"
+    # [[params.social]]
+    #     title = "Twitter"
+    #     icon = "fa-twitter"
+    #     url = "#"
+    # [[params.social]]
+    #     title = "Facebook"
+    #     icon = "fa-facebook-f"
+    #     url = "#"
     [[params.social]]
         title = "GitHub"
         icon = "fa-github"
-        url = "#"
-    [[params.social]]
-        title = "LinkedIn"
-        icon = "fa-linkedin-in"
-        url = "#"
+        url = "https://github.com/tetrahedroid/"
+    # [[params.social]]
+    #     title = "LinkedIn"
+    #     icon = "fa-linkedin-in"
+    #     url = "#"
     [[params.social]]
         title = "Creative Commons"
         icon = "fa-creative-commons"
@@ -47,22 +47,20 @@ defaultContentLanguage = "ja"
 
 
     [params.footer]
-        [[params.footer.panel]]
-            title = "test"
-        [[params.footer.links]]
-            # header = "More Links to Stuff"
-        [[params.footer.links.links]]
-            title = "ホーム"
-            url = ""
-        [[params.footer.links.links]]
-            title = "最新情報"
-            url = "posts"
-        [[params.footer.links.links]]
-            title = "研究"
-            url = "research"
-        [[params.footer.links.links]]
-            title = "メンバー"
-            url = "members"
+        # [[params.footer.links]]
+        #     # header = "More Links to Stuff"
+        # [[params.footer.links.links]]
+        #     title = "ホーム"
+        #     url = ""
+        # [[params.footer.links.links]]
+        #     title = "最新情報"
+        #     url = "posts"
+        # [[params.footer.links.links]]
+        #     title = "研究"
+        #     url = "research"
+        # [[params.footer.links.links]]
+        #     title = "メンバー"
+        #     url = "members"
 
 
         [[params.footer.links]]
