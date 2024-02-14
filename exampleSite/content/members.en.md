@@ -19,4 +19,4 @@ tags: ["members"]
 
 * Emeritus prof. Hideki Tanaka (Collaborator)
 
-Please ask personally to Matsumoto for other OB/OGs.
+Please ask personally to [Matsumoto](mailto:vitroid@gmail.com) for other OB/OGs.

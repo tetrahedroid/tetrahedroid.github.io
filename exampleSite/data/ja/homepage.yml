@@ -23,12 +23,12 @@ items:
         氷はなぜ水に浮くのか、地球が温暖化しても海が膨張しないのはなぜか、メタンハイドレートはなぜ海底でみつかるのか。
         問いが簡単だからといって、答も簡単とは限りません。
   # - type: heading
-  #   heading: A gigantic heading you can use for whatever
+  #   heading: 
   #   contents: With a much smaller subtitle hanging out just below it
   - type: posts
     #heading: Recent Posts
     content_type: posts
-    max: 4
+    max: 6
   # - type: cta
   #   contents: Are you ready to continue your quest?
   #   button:

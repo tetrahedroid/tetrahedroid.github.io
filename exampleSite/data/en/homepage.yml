@@ -1,38 +1,35 @@
 banner:
   enable: true
   image: "images/yinyang2.jpg"
-  contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
-  button:
-    contents: "Learn More"
-    url: "#"
+  contents: "**Theoretical Chemistry Laboratory**, Okayama University"
+  # button:
+  #   contents: "Learn More"
+  #   url: "#"
 items:
   - type: highlights
     items_per_row: 3
     items:
-    - title: This Is Important
+    - title: Water, Ice, Hydrate
       icon: fa-paper-plane
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
+        Water and ice are indispensable in our daily lives. We will clarify the mechanism of how these anomalous properties arise.
+    - title: Theory and Simulation
       icon: fa-pencil-alt
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
+        We use statistical mechanics theory and computer simulation together to investigate phenomena invisible to experiment and to predict the properties of materials prior to experimentation.
+    - title: Mysteries around You
       icon: fa-wrench
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-  - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
+        Why does ice float on water? Why don't the oceans expand as the Earth warms? Why are methane hydrates found on the ocean floor? Simple questions are not always easy to answer.
+  # - type: heading
+  #   heading: A gigantic heading you can use for whatever
+  #   contents: With a much smaller subtitle hanging out just below it
   - type: posts
     #heading: Recent Posts
     content_type: posts
-    max: 4
-  - type: cta
-    contents: Are you ready to continue your quest?
-    button:
-      contents: Insert Coin
-      url: "#"
+    max: 6
+  # - type: cta
+  #   contents: Are you ready to continue your quest?
+  #   button:
+  #     contents: Insert Coin
+  #     url: "#"
