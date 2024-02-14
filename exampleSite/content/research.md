@@ -1,6 +1,6 @@
 ---
 title: "研究"
-# description: "水と氷を科学する"
+# description: "水と氷を科学する."
 menu: main
 weight: 30
 image: images/yinyang2.jpg
