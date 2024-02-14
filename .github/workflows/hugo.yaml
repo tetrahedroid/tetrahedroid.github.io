@@ -60,7 +60,7 @@ jobs:
             --gc \
             --minify \
             --source=exampleSite -d ../public \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+            --baseURL "${{ steps.pages.outputs.base_url }}/hugo-arcana/"          
         # --source=exampleSite --themesDir=../..
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
