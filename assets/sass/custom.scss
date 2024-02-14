@@ -1,3 +1,47 @@
 /* This file intentionally left blank.
  * Put your custom CSS into your (not the theme's) assets/sass/custom.scss
  */
+ p, ul, ol, dl, table, blockquote {
+    margin: 0 0 0.5em 0;
+}
+
+.box {
+    &.post {
+        .inner {
+            margin-left: calc(30% + 2em);
+            height: 200px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    }
+}
+
+@include breakpoint('<=narrower') {
+    .box {
+        &.post {
+            .inner {
+                margin-left: calc(20% + 2em);
+                height: 200px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+        }
+    }
+}
+
+@include breakpoint('<=mobilep') {
+    .box {
+        &.post {
+            .inner {
+                margin-left: calc(20% + 2em);
+                height: 200px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+        }
+    }
+}
+
+.box.highlight p {
+    text-align: left;
+}
