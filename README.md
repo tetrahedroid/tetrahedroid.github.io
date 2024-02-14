@@ -39,3 +39,22 @@ things I've done sub-optimally.
 ## Thanks
 I borrowed a good amount of structure and useful bits from
 [hugo-html5up-alpha](https://github.com/dewittn/hugo-html5up-alpha)
+
+
+## Tetrahedroid
+
+### Obtain your own copy of this site
+
+`git clone https://github.com/tetrahedroid/hugo-arcana.git`
+
+### And test run 
+
+```shell
+cd hugo-arcana
+make
+```
+
+### Deploy to GitHub pages
+
+https://gohugo.io/hosting-and-deployment/hosting-on-github/
+

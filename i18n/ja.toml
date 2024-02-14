@@ -1,0 +1,14 @@
+[contact_name]
+other = "ご芳名"
+
+[contact_email]
+other = "Email"
+
+[contact_message]
+other = "メッセージ"
+
+[contact_submit]
+other = "送信"
+
+[language_select]
+other = "言語"

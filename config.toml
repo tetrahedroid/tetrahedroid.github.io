@@ -1,3 +1,4 @@
+ignoreFiles = ["Icon*"]
 [module]
     [module.hugoVersion]
         min = "0.86.0"
