@@ -45,12 +45,12 @@ I borrowed a good amount of structure and useful bits from
 
 ### Obtain your own copy of this site
 
-`git clone https://github.com/tetrahedroid/hugo-arcana.git`
+`git clone https://github.com/tetrahedroid/tetrahedroid.github.io.git`
 
 ### And test-run locally
 
 ```shell
-cd hugo-arcana
+cd tetrahedroid.github.io
 make
 ```
 
