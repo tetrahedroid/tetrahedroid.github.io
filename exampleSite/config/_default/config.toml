@@ -1,7 +1,8 @@
 baseURL = "http://theochem.chem.okayama-u.ac.jp/"
 languageCode = "ja-JP"
 title = "理論化学研究室"
-theme = "hugo-arcana"
+# theme = "hugo-arcana"
+theme = "tetrahedroid.github.io"
 copyright = "© Theoretical Chemistry Lab. All rights reserved"
 
 defaultContentLanguage = "ja"

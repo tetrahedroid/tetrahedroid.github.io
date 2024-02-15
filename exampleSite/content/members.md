@@ -3,7 +3,7 @@ title: "メンバー"
 description: "仲間たち"
 menu: main
 weight: 40
-# image: images/banner.jpg
+image: images/NMT2024.png
 image_alt: "メンバー"
 tags: ["members"]
 # sidebar_left: sidebar1
