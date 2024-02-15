@@ -1,1 +1,1 @@
-../../tetrahedroid.github.io
+../..
