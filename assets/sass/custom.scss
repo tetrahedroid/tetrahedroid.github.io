@@ -46,3 +46,48 @@
 .box.highlight p {
     text-align: left;
 }
+
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,600,900&display=swap');
+
+body, input, select, textarea {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 16pt;
+    font-weight: 300;
+    line-height: 1.65em;
+}
+
+
+
+// #banner {
+//     // margin: 300px auto; /*as per your preferences*/
+//     // height: 300px;
+//     // width: 450px;
+//     // position: absolute;
+//     // top: 0px;
+//     // left:0px;
+//     border: 2px solid crimson;
+//     animation-name: banner;
+//     animation-duration: 10s;
+//     animation-timing-function: ease-in-out;
+//     animation-iteration-count: infinite;
+// }
+
+
+// @keyframes banner{
+//     0%{
+//         background-image: url(images/beans.jpg);
+//     }
+//     25%{
+//         background-image: url(images/pink2.jpg);
+//     }
+//     50%{
+//         background-image: url(images/beans.jpg);
+//     }
+//     75%{
+//         background-image: url(images/pink2.jpg);
+//     }
+//     100%{
+//         background-image: url(images/beans.jpg);
+//     }
+// }
