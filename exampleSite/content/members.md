@@ -17,6 +17,6 @@ tags: ["members"]
 * B4 長尾 空汰
 * B4 向原 駿成
 
-* 名誉教授 田中 秀樹 (共同研究者)
+* 名誉教授 [田中 秀樹](http://www.riis.okayama-u.ac.jp/papers/) (共同研究者)
 
 その他のOB/OGについては[松本](mailto:vitroid@gmail.com)までお問いあわせ下さい。

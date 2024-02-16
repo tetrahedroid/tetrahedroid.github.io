@@ -17,6 +17,6 @@ tags: ["members"]
 * B4 Sota Nagao
 * B4 Shunsei Mukaibara
 
-* Emeritus prof. Hideki Tanaka (Collaborator)
+* Emeritus prof. [Hideki Tanaka](http://www.riis.okayama-u.ac.jp/papers/) (Collaborator)
 
 Please ask personally to [Matsumoto](mailto:vitroid@gmail.com) for other OB/OGs.
