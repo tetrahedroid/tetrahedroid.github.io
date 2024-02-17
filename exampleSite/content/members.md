@@ -9,7 +9,7 @@ tags: ["members"]
 # sidebar_left: sidebar1
 ---
 (2024-02-14現在)
-* 准教授 [松本 正和](http://www.chem.okayama-u.ac.jp/faculty/matsumoto)
+* 准教授 松本 正和 [学科ページ](http://www.chem.okayama-u.ac.jp/faculty/matsumoto) [個人ページ](http://vitroid.github.io) 
 * M2 高橋 蒼生
 * M1 山田 隆史
 * M1 河野 雄太

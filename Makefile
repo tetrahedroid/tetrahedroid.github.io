@@ -1,7 +1,7 @@
 test:
-	hugo server --source=exampleSite --themesDir=../..
+	hugo server --source=exampleSite # --themesDir=../..
 
 build:
-	hugo --source=exampleSite --themesDir=../..
+	hugo --source=exampleSite # --themesDir=../..
 
 
