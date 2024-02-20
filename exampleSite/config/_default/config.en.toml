@@ -27,7 +27,7 @@
     [params.footer]
 
         [[params.footer.links]]
-            header = "Theoretical Chemistry Laboratory"
+            header = "〈θ|χ|λ〉 _Theoretical Chemistry Laboratory_"
         [[params.footer.links.links]]
             title = "Home"
             url = "/en"

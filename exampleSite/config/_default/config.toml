@@ -49,7 +49,7 @@ defaultContentLanguage = "ja"
 
     [params.footer]
         [[params.footer.links]]
-            header = "理論化学研究室"
+            header = "〈θ|χ|λ〉 _理論化学研究室_"
         [[params.footer.links.links]]
             title = "ホーム"
             url = "/"

@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/yinyang2.jpg"
-  contents: "**Theoretical Chemistry Laboratory**, Okayama University"
+  contents: "Theoretical Chemistry Laboratory _| Okayama University_"
   # button:
   #   contents: "Learn More"
   #   url: "#"

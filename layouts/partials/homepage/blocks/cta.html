@@ -1,10 +1,13 @@
 <section id="cta" class="wrapper style3">
     <div class="container">
         <header>
-            <h2>{{ .item.contents | markdownify }}</h2>
+            <!-- <h2>{{ .item.contents | markdownify }}</h2>
             {{- with .item.button }}
                 <a href="{{ .url }}" class="button">{{ .contents }}</a>
-            {{- end }}
+            {{- end }} -->
+            {{ range (.ctx.Site.GetPage "taxonomyTerm" "tags").Pages }} 
+            <a href="{{ .Permalink }}" class="tagbutton">{{ .Title}}</a> 
+            {{ end }}
         </header>
     </div>
 </section>

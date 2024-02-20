@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/beans.jpg"
-  contents: "岡山大学理学部 理論化学研究室"
+  contents: "_岡山大学理学部_ 理論化学研究室"
 button:
     contents: "Learn More"
     url: "#"
