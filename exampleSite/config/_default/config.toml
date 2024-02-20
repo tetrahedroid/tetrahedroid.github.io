@@ -48,24 +48,24 @@ defaultContentLanguage = "ja"
 
 
     [params.footer]
-        # [[params.footer.links]]
-        #     # header = "More Links to Stuff"
-        # [[params.footer.links.links]]
-        #     title = "ホーム"
-        #     url = ""
-        # [[params.footer.links.links]]
-        #     title = "最新情報"
-        #     url = "posts"
-        # [[params.footer.links.links]]
-        #     title = "研究"
-        #     url = "research"
-        # [[params.footer.links.links]]
-        #     title = "メンバー"
-        #     url = "members"
+        [[params.footer.links]]
+            header = "理論化学研究室"
+        [[params.footer.links.links]]
+            title = "ホーム"
+            url = "/"
+        [[params.footer.links.links]]
+            title = "最新情報"
+            url = "/posts"
+        [[params.footer.links.links]]
+            title = "研究"
+            url = "/research"
+        [[params.footer.links.links]]
+            title = "メンバー"
+            url = "/members"
 
 
         [[params.footer.links]]
-            # header = "リンク"
+            header = "リンク"
         [[params.footer.links.links]]
             title = "理学部化学科"
             url = "http://www.chem.okayama-u.ac.jp"

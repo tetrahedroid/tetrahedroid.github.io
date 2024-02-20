@@ -26,24 +26,24 @@
 
     [params.footer]
 
-        # [[params.footer.links]]
-        #     # header = "More Links to Stuff"
-        # [[params.footer.links.links]]
-        #     title = "ホーム"
-        #     url = ""
-        # [[params.footer.links.links]]
-        #     title = "最新情報"
-        #     url = "posts"
-        # [[params.footer.links.links]]
-        #     title = "研究"
-        #     url = "research"
-        # [[params.footer.links.links]]
-        #     title = "メンバー"
-        #     url = "members"
+        [[params.footer.links]]
+            header = "Theoretical Chemistry Laboratory"
+        [[params.footer.links.links]]
+            title = "Home"
+            url = "/en"
+        [[params.footer.links.links]]
+            title = "Posts"
+            url = "/en/posts"
+        [[params.footer.links.links]]
+            title = "Research"
+            url = "/en/research"
+        [[params.footer.links.links]]
+            title = "Members"
+            url = "/en/members"
 
 
         [[params.footer.links]]
-            # header = "リンク"
+            header = "Links"
         [[params.footer.links.links]]
             title = "Dept. of Chemistry"
             url = "http://www.chem.okayama-u.ac.jp/en"

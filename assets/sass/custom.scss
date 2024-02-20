@@ -1,5 +1,6 @@
 /* This file intentionally left blank.
  * Put your custom CSS into your (not the theme's) assets/sass/custom.scss
+ * できるだけレイアウトやmain.scssには手を入れず、ここだけでカスタマイズする。
  */
  p, ul, ol, dl, table, blockquote {
     margin: 0 0 0.5em 0;
@@ -61,6 +62,9 @@ body, input, select, textarea {
     background-attachment: fixed;
 }
 
+#footer {
+    text-align: left;
+}
 // #header h1 {
 //     text-align: left;
 //     padding: 0 0 0 1em;
@@ -79,7 +83,7 @@ body, input, select, textarea {
 //     // left:0px;
 //     border: 2px solid crimson;
 //     animation-name: banner;
-//     animation-duration: 10s;
+//     animation-duration: 1s;
 //     animation-timing-function: ease-in-out;
 //     animation-iteration-count: infinite;
 // }
