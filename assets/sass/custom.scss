@@ -62,6 +62,10 @@ body, input, select, textarea {
     background-attachment: fixed;
 }
 
+_:-webkit-full-screen:not(.foo), body {
+    background-attachment: scroll;
+}
+
 #footer {
     text-align: left;
 }
