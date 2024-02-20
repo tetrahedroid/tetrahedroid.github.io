@@ -59,9 +59,16 @@ body, input, select, textarea {
 }
 
 // 視差表現。残念ながらiOSで機能しない
-// #banner {
-//     background-attachment: fixed;
-// }
+@supports (-webkit-touch-callout: none) {
+    /* CSS specific to iOS devices */
+}
+
+@supports not (-webkit-touch-callout: none) {
+    /* CSS for other than iOS devices */
+    #banner {
+        background-attachment: fixed;
+    }
+}
 
 #footer {
     text-align: left;
