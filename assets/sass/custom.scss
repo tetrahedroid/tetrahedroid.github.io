@@ -58,13 +58,10 @@ body, input, select, textarea {
     line-height: 1.65em;
 }
 
-#banner {
-    background-attachment: fixed;
-}
-
-_:-webkit-full-screen:not(.foo), body {
-    background-attachment: scroll;
-}
+// 視差表現。残念ながらiOSで機能しない
+// #banner {
+//     background-attachment: fixed;
+// }
 
 #footer {
     text-align: left;
