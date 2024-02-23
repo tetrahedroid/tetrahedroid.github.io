@@ -73,6 +73,17 @@ body, input, select, textarea {
 #footer {
     text-align: left;
 }
+
+// header logo; big screen
+a#logo img {
+    max-height: 120px;
+}
+
+// header logo; mobile
+span.title img {
+    max-height: 100px;
+}
+
 // #header h1 {
 //     text-align: left;
 //     padding: 0 0 0 1em;

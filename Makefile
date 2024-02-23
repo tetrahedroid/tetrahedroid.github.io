@@ -6,4 +6,7 @@ build:
 	hugo --source=exampleSite 
 	# --themesDir=../..
 
+clean:
+	find . -name Icon\* | xargs rm
+
 

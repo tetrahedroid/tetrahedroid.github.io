@@ -50,23 +50,25 @@ defaultContentLanguage = "ja"
     [params.footer]
         [[params.footer.links]]
             header = "理論化学研究室"
+            pageref = "/"
             # header = "⟨θ|χ|λ⟩ _理論化学研究室_"
-        [[params.footer.links.links]]
-            title = "ホーム"
-            url = "/"
+        # [[params.footer.links.links]]
+        #     title = "ホーム"
+        #     pageref = ""
         [[params.footer.links.links]]
             title = "最新情報"
-            url = "/posts"
+            pageref = "posts"
         [[params.footer.links.links]]
             title = "研究"
-            url = "/research"
+            pageref = "research"
         [[params.footer.links.links]]
             title = "メンバー"
-            url = "/members"
+            pageref = "members"
 
 
         [[params.footer.links]]
-            header = "リンク"
+            header = "岡山大学"
+            url = "http://www.okayama-u.ac.jp"
         [[params.footer.links.links]]
             title = "理学部化学科"
             url = "http://www.chem.okayama-u.ac.jp"
@@ -79,9 +81,9 @@ defaultContentLanguage = "ja"
         [[params.footer.links.links]]
             title = "環境生命自然科学研究科"
             url = "http://www.gnst.okayama-u.ac.jp"
-        [[params.footer.links.links]]
-            title = "岡山大学"
-            url = "http://www.okayama-u.ac.jp"
+        # [[params.footer.links.links]]
+        #     title = "岡山大学"
+        #     url = "http://www.okayama-u.ac.jp"
 
         # [[params.footer.links]]
         #     header = "More Links to Stuff"

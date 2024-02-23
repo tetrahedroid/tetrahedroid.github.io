@@ -25,26 +25,28 @@
 
 
     [params.footer]
-
         [[params.footer.links]]
             header = "Theoretical Chemistry Laboratory"
+            pageref="/"
             # header = "⟨θ|χ|λ⟩ _Theoretical Chemistry Laboratory_"
-        [[params.footer.links.links]]
-            title = "Home"
-            url = "/en"
+        # [[params.footer.links.links]]
+        #     title = "Home"
+        #     pageref = "/"
         [[params.footer.links.links]]
             title = "Posts"
-            url = "/en/posts"
+            pageref = "posts"
         [[params.footer.links.links]]
             title = "Research"
-            url = "/en/research"
+            pageref = "research"
         [[params.footer.links.links]]
             title = "Members"
-            url = "/en/members"
+            pageref = "members"
 
 
         [[params.footer.links]]
-            header = "Links"
+            # header = "Links"
+            header = "Okayama University"
+            url = "http://www.okayama-u.ac.jp/index_e.html"
         [[params.footer.links.links]]
             title = "Dept. of Chemistry"
             url = "http://www.chem.okayama-u.ac.jp/en"
@@ -57,9 +59,9 @@
         [[params.footer.links.links]]
             title = "Graduate School for Natural Sci. and Tech."
             url = "http://www.gnst.okayama-u.ac.jp/e"
-        [[params.footer.links.links]]
-            title = "Okayama University"
-            url = "http://www.okayama-u.ac.jp/index_e.html"
+        # [[params.footer.links.links]]
+        #     title = "Okayama University"
+        #     url = "http://www.okayama-u.ac.jp/index_e.html"
 
         # [[params.footer.links]]
         #     header = "More Links to Stuff"
