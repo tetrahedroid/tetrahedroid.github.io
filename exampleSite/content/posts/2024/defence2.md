@@ -2,6 +2,7 @@
 title: 卒業論文発表会が開催されました
 image: images/theochemlogo.svg
 date: "2024-02-29T00:00:00"
+expiryDate: "2024-08-29T00:00:00"
 tags:
   - defence
   - b4
