@@ -1,6 +1,6 @@
 ---
 title: 修士論文審査会が開催されました
-image: images/Figure15.png
+image: images/2024/Figure15.png
 date: "2024-02-15T00:00:00"
 expiryDate: "2024-08-15T00:00:00"
 tags:
