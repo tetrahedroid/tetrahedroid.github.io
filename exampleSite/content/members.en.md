@@ -8,7 +8,7 @@ image_alt: "Members"
 tags: ["members"]
 # sidebar_left: sidebar1
 ---
-(Feb. 2024)
+(Mar. 2024)
 * Assoc. Prof. [Masakazu Matsumoto](http://www.chem.okayama-u.ac.jp/en/faculty/matsumoto)
 * M2 Aoi Takahashi
 * M1 Takafumi Yamada
@@ -16,6 +16,9 @@ tags: ["members"]
 * B4 Satoshi Tsuchiya
 * B4 Sota Nagao
 * B4 Shunsei Mukaibara
+* B3 (NEW!) Hikaru Sasaki
+* B3 (NEW!) Hisatoshi Naito
+* B3 (NEW!) Sena Yazama
 
 * Emeritus prof. [Hideki Tanaka](http://www.riis.okayama-u.ac.jp/papers/) (Collaborator)
 

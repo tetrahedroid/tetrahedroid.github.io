@@ -8,7 +8,7 @@ image_alt: "メンバー"
 tags: ["members"]
 # sidebar_left: sidebar1
 ---
-(2024-02-14現在)
+(2024-03-01現在)
 * 准教授 松本 正和
   * [学科ページ](http://www.chem.okayama-u.ac.jp/faculty/matsumoto)
   * [個人ページ](http://vitroid.github.io)
@@ -21,6 +21,9 @@ tags: ["members"]
 * B4 土屋 智史
 * B4 長尾 空汰
 * B4 向原 駿成
+* B3 (NEW!) 佐々木 輝
+* B3 (NEW!) 内藤 久稔
+* B3 (NEW!) 矢間 瀬名
 
 * 名誉教授 田中 秀樹 (共同研究者)
   * [論文検索](http://www.riis.okayama-u.ac.jp/papers/) 
