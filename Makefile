@@ -1,4 +1,4 @@
-test:
+test: clean
 	hugo server --source=exampleSite 
 	# --themesDir=../..
 
