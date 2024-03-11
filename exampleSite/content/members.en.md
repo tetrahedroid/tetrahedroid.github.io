@@ -3,7 +3,7 @@ title: "Members"
 description: "Our team"
 menu: main
 weight: 40
-image: images/MNT2024.png
+image: images/2024/MNT2024.png
 image_alt: "Members"
 tags: ["members"]
 # sidebar_left: sidebar1
