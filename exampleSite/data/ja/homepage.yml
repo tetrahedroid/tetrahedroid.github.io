@@ -1,6 +1,7 @@
 banner:
   enable: true
-  image: "images/beans.jpg"
+  # image: "images/beans.jpg"
+  image: "images/2024/MNT2024.png"
   contents: "_岡山大学理学部 |_ 理論化学研究室"
 button:
     contents: "Learn More"
