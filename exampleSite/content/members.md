@@ -15,15 +15,15 @@ tags: ["members"]
   * [ResearcherID B-1495-2011](https://researcherid.com/rid/B-1495-2011)
   * [ORCID 0000-0002-6799-6813](https://orcid.org/0000-0002-6799-6813)
   * [Scholar NBbReDMAAAAJ](https://scholar.google.co.jp/citations?user=NBbReDMAAAAJ)
-* M2 高橋 蒼生
-* M1 山田 隆史
-* M1 河野 雄太
-* B4 土屋 智史
-* B4 長尾 空汰
-* B4 向原 駿成
-* B3 (NEW!) 佐々木 輝
-* B3 (NEW!) 内藤 久稔
-* B3 (NEW!) 矢間 瀬名
+<!-- * M2 高橋 蒼生 -->
+* M2 山田 隆史
+* M2 河野 雄太
+<!-- * B4 土屋 智史 -->
+<!-- * B4 長尾 空汰 -->
+* M1 向原 駿成
+* B4 (NEW!) 佐々木 輝
+* B4 (NEW!) 内藤 久稔
+* B4 (NEW!) 矢間 瀬名
 
 * 名誉教授 田中 秀樹 (共同研究者)
   * [論文検索](http://www.riis.okayama-u.ac.jp/papers/) 
