@@ -2,3 +2,12 @@ ignoreFiles = ["Icon*"]
 [module]
     [module.hugoVersion]
         min = "0.86.0"
+#     # the following contents are from https://github.com/privatemaker/headless-cms
+#     [module.imports]
+#         path = "headless-cms"
+# [outputs]
+#     outputs.home = ["HTML", "RSS", "HeadlessCMSConfig"]
+
+# [params]
+#     [params.headless_cms]
+#         engine= "sveltia"
