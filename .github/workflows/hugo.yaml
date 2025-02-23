@@ -64,7 +64,7 @@ jobs:
         # the contents are written in a temporary folder "public"
         # and is visible as https://tetrahedroid.github.io
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
