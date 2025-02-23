@@ -1,6 +1,6 @@
 ---
 title: 修士論文審査会が開催されました
-image: images/2025/gyroid12.png
+image: images/theochemlogo.svg
 date: "2025-02-12T00:00:00"
 expiryDate: "2025-08-12T00:00:00"
 tags:
