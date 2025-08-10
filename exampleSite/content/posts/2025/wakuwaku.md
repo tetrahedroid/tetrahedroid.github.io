@@ -1,5 +1,5 @@
 ---
-title: \'25 岡山化学展にブース出店しました
+title: 岡山化学展にブース出店しました
 image: images/wakuwaku2025/fullerene.jpg
 date: "2025-08-10T00:00:00"
 expiryDate: "2026-02-10T00:00:00"
