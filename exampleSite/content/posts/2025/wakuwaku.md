@@ -1,5 +1,5 @@
 ---
-title: '25 岡山化学展にブース出店しました
+title: \'25 岡山化学展にブース出店しました
 image: images/wakuwaku2025/fullerene.jpg
 date: "2025-08-10T00:00:00"
 expiryDate: "2026-02-10T00:00:00"
@@ -15,7 +15,7 @@ tags:
 
 ブースに来ていただいた方のために、当日のパンフ(分子カタログ)を置いておきます。夏休みの宿題の参考になれば幸いです。
 
-- [かんたん](pdf/wakuwaku2025/easy.pdf)
+- [かんたん](/static/pdf/wakuwaku2025/easy.pdf)
 - [ふつう](pdf/wakuwaku2025/medium.pdf)
 - [たいへん](pdf/wakuwaku2025/hard.pdf)
 - [からだ](pdf/wakuwaku2025/body.pdf)
