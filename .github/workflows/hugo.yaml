@@ -33,7 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.122.0
-      # Pin for reproducible CI; bump when you need newer Sass features.
+      # npm package "sass" (Dart Sass); bump when you need newer Sass features.
       DART_SASS_VERSION: 1.99.0
     steps:
       - name: Install Hugo CLI
@@ -47,10 +47,11 @@ jobs:
         run: |
           set -euo pipefail
           set -x
-          wget -qO "${RUNNER_TEMP}/dart-sass.tar.gz" \
-            "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
-          tar -xzf "${RUNNER_TEMP}/dart-sass.tar.gz" -C "${RUNNER_TEMP}"
-          echo "${RUNNER_TEMP}/dart-sass" >> "${GITHUB_PATH}"
+          node --version
+          npm --version
+          # GitHub-hosted runners ship Node/npm; global "sass" avoids linux-x64 tarball on arm64.
+          npm install -g "sass@${DART_SASS_VERSION}"
+          command -v sass
           sass --version
       - name: Checkout
         uses: actions/checkout@v5
