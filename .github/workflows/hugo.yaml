@@ -68,6 +68,17 @@ jobs:
           if [[ -f package-lock.json || -f npm-shrinkwrap.json ]]; then
             npm ci
           fi
+      # exampleSite/themes/tetrahedroid.github.io must be a directory (theme at repo root).
+      # Some Git clients check out a symlink as a text file containing "../..", which breaks Hugo.
+      - name: Ensure theme directory points to repository root
+        run: |
+          set -euo pipefail
+          set -x
+          if [[ ! -d exampleSite/themes/tetrahedroid.github.io ]]; then
+            rm -f exampleSite/themes/tetrahedroid.github.io
+            ln -s "${GITHUB_WORKSPACE}" exampleSite/themes/tetrahedroid.github.io
+          fi
+          ls -la exampleSite/themes/
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
