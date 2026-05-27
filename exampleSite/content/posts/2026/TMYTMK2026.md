@@ -1,7 +1,7 @@
 ---
 title: 水不純物を含む液体CO2の相挙動：CO2ハイドレートの影響
 image: images/2026/TMYTMK2026.png
-date: "2026-03-10T00:00:00"
+date: "2026-05-27T00:00:00"
 draft: false
 tags:
   - research
