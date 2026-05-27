@@ -1,5 +1,5 @@
 ---
-title: Phase behaviour of liquid CO2 with an impurity of water: Influence of  CO2 hydrate.
+title: "Phase behaviour of liquid CO2 with an impurity of water: Influence of CO2 hydrate."
 image: images/2026/TMYTMK2026.png
 date: "2026-03-10T00:00:00"
 draft: false
