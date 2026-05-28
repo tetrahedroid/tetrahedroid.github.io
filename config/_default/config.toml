@@ -1,5 +1,8 @@
 [params]
     enableSourceMaps = true
+    # Set your Google Tag Manager container ID (e.g. "GTM-XXXXXXX").
+    # The theme injects GTM scripts when this value is set.
+    googleTagManagerID = "G-K76Y6W3DMT"
     [params.footer]
         [params.footer.links]
         [params.footer.contact_form]

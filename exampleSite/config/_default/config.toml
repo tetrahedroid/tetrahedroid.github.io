@@ -24,6 +24,9 @@ defaultContentLanguage = "ja"
 [params]
     description = "理論化学研究室"
     show_post_dates = true
+    # Set your Google Tag Manager container ID (e.g. "GTM-XXXXXXX")
+    # to enable analytics snippet injection.
+    googleTagManagerID = "G-K76Y6W3DMT"
 
     # [[params.social]]
     #     title = "Twitter"
