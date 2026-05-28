@@ -1,4 +1,4 @@
-baseURL = "http://theochem.chem.okayama-u.ac.jp/"
+baseURL = "https://tetrahedroid.github.io/"
 languageCode = "ja-JP"
 title = "理論化学研究室"
 # theme = "hugo-arcana"
