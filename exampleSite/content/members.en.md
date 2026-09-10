@@ -9,7 +9,7 @@ tags: ["members"]
 # sidebar_left: sidebar1
 ---
 (Mar. 2024)
-* Assoc. Prof. [Masakazu Matsumoto](http://www.chem.okayama-u.ac.jp/en/faculty/matsumoto)
+* Assoc. Prof. [Masakazu Matsumoto](http://www.chem.okayama-u.ac.jp/en/faculty/matsumoto) ([vCard](/vcf/matsumoto.vcf))
 <!-- * M2 Aoi Takahashi -->
 * M2 Takafumi Yamada
 * M2 Yuta Kawano

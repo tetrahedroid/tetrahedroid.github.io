@@ -17,6 +17,7 @@ tags: ["members"]
   - [ResearcherID B-1495-2011](https://researcherid.com/rid/B-1495-2011)
   - [ORCID 0000-0002-6799-6813](https://orcid.org/0000-0002-6799-6813)
   - [Scholar NBbReDMAAAAJ](https://scholar.google.co.jp/citations?user=NBbReDMAAAAJ)
+  - [名刺 (vCard)](/vcf/matsumoto.vcf)
       <!-- * M2 高橋 蒼生 -->
     <!-- - M2 山田 隆史 -->
     <!-- - M2 河野 雄太 -->
