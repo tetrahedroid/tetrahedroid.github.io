@@ -3,4 +3,9 @@ exampleSite/public/
 resources/_gen/
 public/
 .hugo_build.lock
+# macOS custom folder icon (literal name is Icon + CR; often displayed as Icon?)
+Icon?
 Icon*
+.DS_Store
+.AppleDouble
+.LSOverride
