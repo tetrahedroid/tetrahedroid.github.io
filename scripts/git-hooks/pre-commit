@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Remove GDrive/macOS junk (Icon?/ .DS_Store) before commit — including under .git/
+set -euo pipefail
+ROOT="$(git rev-parse --show-toplevel)"
+"$ROOT/scripts/clean-gdrive-junk.sh" --quiet
+exit 0
